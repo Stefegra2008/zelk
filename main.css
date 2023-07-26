@@ -1913,8 +1913,3 @@ body:not(.powercord) .panels-3wFtMD::after {
 .bf-toolbar .format:active {
   background: var(--background-modifier-active) !important;
 }
-/* fixes */
-.headerTop-3GPUSF,
-.nameTag-2Nlmsy.nameTag-H6kSJ0 {
-  padding-top: 2.5rem !important;
-}
