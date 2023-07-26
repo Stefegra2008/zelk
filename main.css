@@ -1914,7 +1914,6 @@ body:not(.powercord) .panels-3wFtMD::after {
   background: var(--background-modifier-active) !important;
 }
 /* fixes */
-
 .avatarWrapper-eenWra.avatarPositionPremium-1zPBq9,
 .wrapper-1VLyxH.avatar-3QF_VA {
   transform: translateY(75%) !important;
